@@ -3,8 +3,8 @@
 English text into Hinglish, a mixture of Hindi and English, while also converting difficult words and phrases into Hinglish. Used Helsinki-NLP/opus-mt-en-hi pre-trained translation model for translations.
 
 ## Installations
-* transformers
-* nltk
+* pip install transformers
+* pip install nltk
 * Python 3.n
 
 ## Steps to run
